@@ -6,7 +6,7 @@
 
 MSc at ESADE Business School, focusing on strategy, technology, and analytics (GPA 8.75/10). BBA from Baruch College, Zicklin School of Business (GPA 3.78/4.0). I work with data and build products that make it easier to understand and use. Most of my projects start with a frustration with how something already exists and an attempt to do it better.
 
-Currently looking for an internship in data or product.
+Currently working as a Business Analyst Intern.
 
 ---
 
